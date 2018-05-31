@@ -7,4 +7,6 @@ Git tracks changes2.
 Branch test.
 Creating a new branch is quick and simple.
 Manage branches.
+Git is a free software...
+
 
